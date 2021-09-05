@@ -1,0 +1,19 @@
+body{
+    background-color: azure;
+    font-family: 'Times New Roman', Times, Arial, Helvetica;
+    font-size: 22px;
+
+}
+div{
+    color: grey;
+    height: 100%;
+    height: 100%;
+    padding: 20px 10px 20px 40px;
+    margin: 10px;
+    border: 1px solid #999999;
+    background-color: antiquewhite;
+    border-radius: 15px;
+    border: solid 2px grey;
+    border-radius: 15px 0px 15px 0px;
+    box-shadow: 2px 2px 5px #c0c2c9;
+}
